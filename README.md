@@ -20,6 +20,6 @@ As Speech Services consists of several services, need to prioritize documentatio
   and so on...
 </ul></i>
 
-We start documentation from [Batch Transcription](BatchTranscription\BatchTranscription.md) as it includes several resources to function.
+We start documentation from [Batch Transcription](BatchTranscription/BatchTranscription.md) as it includes several resources to function.
 
 
