@@ -64,7 +64,7 @@ For Batch Transcription, [Bring Your Own Storage](https://docs.microsoft.com/en-
 As to how to configure BOYS for Batch Transcription, refer to the following page.
 <br>
 
-[Configure BYOS for Batch Transcription](BatchTranscription\BatchTranscription.md) 
+[Configure BYOS for Batch Transcription](.\BatchTranscription\BatchTranscription.md) 
 <br><br>
 
 <h2>Audit</h2>
